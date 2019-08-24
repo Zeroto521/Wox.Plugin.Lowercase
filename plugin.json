@@ -1,0 +1,12 @@
+{
+    "ID": "f846f6c3211f43ec90dd0f0bcfebe203",
+    "ActionKeyword": "lower",
+    "Name": "Lowercase",
+    "Description": "Lowercase letters.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.Lowercase",
+    "IcoPath": "images\\favicon.ico",
+    "ExecuteFileName": "main.py"
+}
